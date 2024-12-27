@@ -59,7 +59,7 @@ If you frequently create and develop console applications and want a way to spee
 
 4. **Interactive Elements**  
    \- Pausing for input with `PauseConsole()`.  
-   \- Easily create highly-customizable numbered menus with input, and errpr handling using `PromptNumberedMenu()`.
+   \- Easily create highly-customizable numbered menus with input, and error handling using `PromptNumberedMenu()`.
 
 5. **Effects and Animations**  
    \- Print a "typewriter" effect with adjustable speed with `PrintTypingTextEffect()`.  
