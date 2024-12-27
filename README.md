@@ -394,7 +394,7 @@ int PromptNumberedMenu(const std::vector<std::string> Options,  // vector for me
 
 ## Contributing
 
-We welcome contributions of all kinds:
+I welcome contributions of all kinds:
 
 -   **Bug Reports**: Please open an issue with logs or a small test case.
 -   **Enhancements**: If you have an idea for a new feature, open a pull request or an issue for discussion.
