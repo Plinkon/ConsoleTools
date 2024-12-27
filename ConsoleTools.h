@@ -42,6 +42,9 @@ namespace ConsoleTools {
         static inline constexpr const char* LIGHT_CYAN = "\033[96m";
 
         static inline constexpr const char* RESET = "\033[0m";
+        
+        // if you want to create your own custom color,
+        // follow the format of [static inline constexpr const char* COLORNAME = "ANSI_CODE"]
     };
 
     // Function Declarations
