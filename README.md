@@ -38,7 +38,7 @@
 
 ## Introduction
 
-**ConsoleTools** is a lightweight, single-header (plus an implementation file) C++ library designed to improve and speed up basic console application development. Whether you’re building a command-line tool, a game, or a simple utility, ConsoleTools helps you create polished and user-friendly console experiences. ConsoleTools offers simple and easy-to-use, and easy-to-implement **colored text**, **text-based progress bars**, **custom header creation**, **customizable console notifications**, **spinners**, **menus**, and more.
+**ConsoleTools** is a lightweight, single-header (plus an implementation file) C++ library designed to improve and speed up basic console application development. Whether you’re building a command-line tool, a game, or a simple utility, ConsoleTools helps you create polished and user-friendly console experiences. ConsoleTools offers simple and easy-to-use, quality of life functions and features that make developing a nice console application easier and faster.
 
 If you frequently create and develop console applications and want a way to speed up your development process, **ConsoleTools** is for you.
 
